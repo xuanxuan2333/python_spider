@@ -5,7 +5,7 @@
 # Copyright (c) 2016 Baidu.com, Inc. All Rights Reserved
 #
 ################################################################################
-from django.core.paginator import Page
+
 """
 提供简单的爬虫功能.
 

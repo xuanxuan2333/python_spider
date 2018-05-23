@@ -5,7 +5,7 @@
 # Copyright (c) 2016 Baidu.com, Inc. All Rights Reserved (conflict try)
 #
 ################################################################################
-from src.spider_conf import SpiderConf
+from spider_conf import SpiderConf
 """
 提供简单的爬虫功能.
 
